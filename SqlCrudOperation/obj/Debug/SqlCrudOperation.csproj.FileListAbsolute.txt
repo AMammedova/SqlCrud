@@ -1,0 +1,10 @@
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\bin\Debug\SqlCrudOperation.exe.config
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\bin\Debug\SqlCrudOperation.exe
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\bin\Debug\SqlCrudOperation.pdb
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\obj\Debug\SqlCrudOperation.csproj.AssemblyReference.cache
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\obj\Debug\SqlCrudOperation.Form1.resources
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\obj\Debug\SqlCrudOperation.Properties.Resources.resources
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\obj\Debug\SqlCrudOperation.csproj.GenerateResource.cache
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\obj\Debug\SqlCrudOperation.csproj.CoreCompileInputs.cache
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\obj\Debug\SqlCrudOperation.exe
+C:\Users\alesy\source\repos\BackendTasks\SqlCrudOperation\SqlCrudOperation\obj\Debug\SqlCrudOperation.pdb
